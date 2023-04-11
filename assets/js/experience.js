@@ -12,7 +12,7 @@ const exp = [
     desp: "<li>Constructed regression-based model to forecast Sales department attrition rate using 60,000+ employee historical data & demographics boosting accuracy by 90%.</li> <li>Made changes in the current progressive web app of Flipkart to react to different actions performed on AMP page.</li> <li>Created a node module called “fk-amp” which abstracts all the files and middlewares and can be easily imported and used from express server.</li>",
   },
   {
-    title: "Student Developer",
+    title: "Junior Data Scientist",
     cardImage: "assets/images/experience-page/gsoc.png",
     place: "Google Summer Of Code",
     time: "(Mar - Aug, 2019)",
