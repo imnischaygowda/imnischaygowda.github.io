@@ -9,7 +9,7 @@ const exp = [
     cardImage: "assets/images/experience-page/piramal_finance.jpeg",
     place: "Piramal Finance",
     time: "(April, 2021 - July, 2022)",
-    desp: "<li>Constructed regression-based model to forecast Sales department attrition rate using 60,000+ employee historical data & demographics boosting accuracy by 90%.</li> <li>Made changes in the current progressive web app of Flipkart to react to different actions performed on AMP page.</li> <li>Created a node module called “fk-amp” which abstracts all the files and middlewares and can be easily imported and used from express server.</li>",
+    desp: "<li>Constructed regression-based model to forecast Sales department attrition rate using 60,000+ employee historical data & demographics boosting accuracy by 90%.</li> <li>Developed advanced structured data mining & analytics techniques to automate CSAT dashboard comprising of 10+ operational KPIs elevating Customer Service team efficiency by 15%.</li> <li>Created a node module called “fk-amp” which abstracts all the files and middlewares and can be easily imported and used from express server.</li>",
   },
   {
     title: "Junior Data Scientist",
